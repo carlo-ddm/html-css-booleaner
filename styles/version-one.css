@@ -4,9 +4,13 @@ body {
 }
 
 /* HEADER */
-header .cropper {
+header .band-container {
   background-color: #3F8BFF;
-  height: 100px;
-  overflow: hidden;
+  background-image: url(../img/pattern.png);
+  height: 170px;
 }
 
+#logo {
+  height: 50px;
+  margin-top: 100px;
+}

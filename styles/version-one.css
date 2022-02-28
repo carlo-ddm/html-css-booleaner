@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* HEADER */
+header .cropper {
+  background-color: #3F8BFF;
+  height: 100px;
+  overflow: hidden;
+}
+

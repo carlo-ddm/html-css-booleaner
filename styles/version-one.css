@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   box-sizing: border-box;
+
 }
 
 /* HEADER */
@@ -8,6 +9,11 @@ header .band-container {
   background-color: #3F8BFF;
   background-image: url(../img/pattern.png);
   height: 170px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
 }
 
 header h1 {
@@ -41,18 +47,6 @@ h6 #span-1 {
   font-size: 10px;
 }
 
-.text {
-  width: 1000px;
-}
-
-.list {
-  width: 1000px;
-}
-
-table {
-  width: 1000px;
-}
-
 table thead tr th {
   background-color: #1F97DE;
   color: white;
@@ -66,4 +60,7 @@ table thead tr th {
   background-color: #A4DFEE;
 }
 
-
+/* FOOTER */
+footer h3 {
+  color: grey;
+}

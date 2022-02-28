@@ -49,5 +49,21 @@ h6 #span-1 {
   width: 1000px;
 }
 
+table {
+  width: 1000px;
+}
+
+table thead tr th {
+  background-color: #1F97DE;
+  color: white;
+}
+
+#th3 {
+  width: 50%;
+}
+
+.tr-body {
+  background-color: #A4DFEE;
+}
 
 
